@@ -104,7 +104,7 @@ fun ButtonAndImage(modifier: Modifier = Modifier) {
             Text(text = imageTexts[result - 1], fontSize = 18.sp)
         }
 
-        
+
         Row(
             modifier = Modifier
                 .fillMaxWidth()
